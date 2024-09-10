@@ -1,23 +1,32 @@
-Nhiida
+# Website Portofolio
 
+This website is dedicated for school project that's showing about my portofolio.
 
-Nhiida is a simple website for school project.
+## Table of Contents
 
+- [Installation](#installation)
+- [Built-With](#built-with)
+- [Contact](#contact)
 
-Built With
-HTML
-CSS
-JavaScript
+## Installation
 
+Instructions on how to install and set up your project.
 
-Installation
-To get a local copy up and running, follow these simple steps.
+```bash
+git clone https://github.com/nnhida/nhiida
+cd nhiida
+npm install
 
-Clone the repo: git clone https://github.com/nnhida/nhiida
+```
 
+## Built-With
+- HTML
+- CSS
+- JavaScripts
 
-Contact
-@nnhida - nh4yundira@gmail.com
+## Contact
+For questions or feedback, please contact:
 
+- Hida - @nnhida - nh4yundira@gmail.com
 
 Project Link: https://github.com/nnhida/nhiida
